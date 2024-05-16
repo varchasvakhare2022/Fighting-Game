@@ -1,0 +1,18 @@
+
+=== Mon Apr 22 17:28:12 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ai.navigation@1.1.5
+The following packages were updated:
+  com.unity.2d.animation from version 7.0.12 to 9.1.0
+  com.unity.2d.spriteshape from version 7.0.7 to 9.0.2
+  com.unity.cinemachine from version 2.8.9 to 2.9.5
+  com.unity.ide.visualstudio from version 2.0.21 to 2.0.22
+  com.unity.inputsystem from version 1.5.1 to 1.7.0
+  com.unity.netcode.gameobjects from version 1.3.1 to 1.8.1
+  com.unity.postprocessing from version 3.2.2 to 3.4.0
+  com.unity.render-pipelines.universal from version 12.1.11 to 14.0.11
+  com.unity.services.lobby from version 1.0.3 to 1.1.0
